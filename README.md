@@ -38,7 +38,6 @@ AI & Computer Vision R&D Engineer with 7+ years of experience, specialized in en
 ![OpenGL](https://img.shields.io/badge/-OpenGL-333333?style=flat&logo=opengl)
 
 - Detection, classification, segmentation
-- Monocular & multi-view 3D reconstruction
 - Hybrid deep learning + geometric methods
 
 ### ⚙️ MLOps / Optimization / Deployment
