@@ -77,7 +77,7 @@ AI & Computer Vision R&D Engineer with 7+ years of experience, specialized in en
 ## 🎓 Education
 
 - 🎓 **PhD (CIFRE) — AI & Computer Vision**  
-  *IMT Lille-Douai / CRIStAL (2017–2020)*  
+  *IMT Lille-Douai / CRIStAL / MCQ-Scan (2017–2020)*  
   Hybrid deep learning and geometric methods for monocular 3D face reconstruction
 
 - 🎓 **Master’s Degree — Signal & Image Processing**  
