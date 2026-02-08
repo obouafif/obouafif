@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-AI & Computer Vision R&D Engineer with 7+ years of experience, specialized in end-to-end ML systems, industrialization, and production-ready AI.
+AI & Computer Vision R&D Engineer with 7+ years of experience, specialized in end-to-end ML systems.
 </h3>
 
 <img align="right" width="400" alt="Coding GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
