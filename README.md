@@ -37,9 +37,6 @@ AI & Computer Vision R&D Engineer with 7+ years of experience, specialized in en
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-333333?style=flat&logo=opengl)
 
-- Detection, classification, segmentation
-- Hybrid deep learning + geometric methods
-
 ### ⚙️ MLOps / Optimization / Deployment
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
@@ -53,54 +50,7 @@ AI & Computer Vision R&D Engineer with 7+ years of experience, specialized in en
 - Hyperparameter optimization
 - Reproducible experiments & monitoring
 
----
 
-## 🏢 Professional Experience
-
-### **AI / Computer Vision R&D Engineer — Fittingbox (2021–Present)**
-- Design and development of **face analysis systems** using hybrid DL + CV approaches
-- Full ML lifecycle ownership: data, training, tuning, validation, deployment
-- CI/CD pipelines with automated testing and Dockerized environments
-- Production integration of PyTorch / C++ / TensorFlow.js models
-
-### **AI R&D Engineer — MCQ-Scan (2018–2021)**
-- Computer vision for **embedded robotic systems**
-- CNN-based detection and segmentation for retail inventory automation
-- Dataset annotation management and model benchmarking
-
-### **R&D Engineer Intern — CentraleSupélec (2017)**
-- Real-time facial expression processing for PTSD therapy tools
-- Optimization of real-time facial warping algorithms
-
----
-
-## 🎓 Education
-
-- 🎓 **PhD (CIFRE) — AI & Computer Vision**  
-  *IMT Lille-Douai / CRIStAL / MCQ-Scan (2017–2020)*  
-  Hybrid deep learning and geometric methods for monocular 3D face reconstruction
-
-- 🎓 **Master’s Degree — Signal & Image Processing**  
-  *University of Toulouse III*
-
-- 🎓 **Bachelor’s Degree — Electronics & Automation**
-
----
-
-## 📜 Certifications
-
-- ☁️ **AWS Certified AI Practitioner** (2025–2028)
-
----
-
-## 📚 Publications
-
-- *IEEE Transactions on Affective Computing* — Real-time facial & vocal smile transformation
-- *ICPR 2020* — Hybrid approaches for 3D head reconstruction
-- *VISAPP 2020* — Monocular 3D head reconstruction via normal vector field prediction
-- *PhD Thesis* — Hybrid deep learning & geometric methods for monocular 3D face reconstruction
-
----
 
 ## 🤝 Connect With Me
 
