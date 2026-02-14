@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=6FDA44&size=32&center=true&vCenter=true&width=700&height=50&lines=Hi+there%2C+I'm+Oussema+Bouafif+👋;AI+%26+Computer+Vision+R%26D+Engineer" alt="Headline" />
 </div>
 
-<h3 align="center">
-AI & Computer Vision R&D Engineer with 7+ years of experience, specialized in end-to-end ML systems.
-</h3>
-
 <img align="right" width="400" alt="Coding GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
 
 ---
